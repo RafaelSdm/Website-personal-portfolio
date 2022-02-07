@@ -658,3 +658,26 @@ section{
     font-size: 1.5rem;
     color: var(--secondary-text-color);
 }
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    padding: 2.5rem 1rem;
+    text-align: center;
+    font-size: 2rem;
+    color: var(--primary-text-color);
+    background-color: var(--secondary-bg-color);
+    margin-top: 1rem;
+}
+
+.footer span{
+    color: var(--main-color);
+}
