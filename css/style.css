@@ -706,3 +706,70 @@ section{
 #theme-toggler.fa-sun{
     transform: rotate(-180deg);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 991px){
+    html{
+        font-size: 55%;
+    }
+
+    section{
+        padding: 1rem;
+        padding:  0 3%;
+    }
+
+    
+}
+
+
+@media (max-width: 768px) {
+
+    .home .image img{
+        height: auto;
+        width: 100%;
+
+    }
+    
+}
+
+@media (max-width: 400px) {
+
+    html{
+        font-size: 50%;
+    }
+
+    .services .box-container .box{
+        width: 100%;
+    }
+
+    .portfolio .box-container .box{
+        width: 100%;
+    }
+
+    .contact .box-container .box{
+        width: 100%;
+    }
+    
+}
